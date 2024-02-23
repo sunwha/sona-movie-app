@@ -9,7 +9,7 @@ function Movie({ id, coverImg, title, synopsis, genres, rating, url }) {
       </div>
       <div className="py-5 grow-0 shrink">
         <h3 className="text-lg pb-2 hover:bg-sky-700">
-          <Link to={`/movie/${id}`}>{title}</Link>
+          <Link to={`${process.env.PUBLIC_URL}/movie/${id}`}>{title}</Link>
         </h3>
         <p>
           <strong className="font-blod">URL</strong>:{" "}

@@ -8,7 +8,10 @@ function Contianer({ children }) {
         <header className="bg-red-600 px-5 py-5 text-white relative">
           <h1 className="font-mono text-xl font-extrabold">Sona Movie App</h1>
           {location.pathname !== "/" ? (
-            <Link to="/" className="absolute top-6 right-5 border px-1 rounded">
+            <Link
+              to={`${process.env.PUBLIC_URL}/`}
+              className="absolute top-6 right-5 border px-1 rounded"
+            >
               Home
             </Link>
           ) : null}
