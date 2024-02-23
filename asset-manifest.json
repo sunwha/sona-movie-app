@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sona-movie-app/static/css/main.a2a2bfa7.css",
+    "main.js": "/sona-movie-app/static/js/main.698fbd56.js",
+    "index.html": "/sona-movie-app/index.html",
+    "main.a2a2bfa7.css.map": "/sona-movie-app/static/css/main.a2a2bfa7.css.map",
+    "main.698fbd56.js.map": "/sona-movie-app/static/js/main.698fbd56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a2bfa7.css",
+    "static/js/main.698fbd56.js"
+  ]
+}
