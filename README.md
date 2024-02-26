@@ -5,7 +5,7 @@ Sona Movie App은 Nomadcoder ReactJS 기초 강의를 통해 학습한 내용을
 ##사용된 기술 스택
 - JavaScript
 - ReactJS
-- Tailwindcss
+- Tailwind CSS
 
 ### homepage
 https://sunwha.github.io/sona-movie-app/
